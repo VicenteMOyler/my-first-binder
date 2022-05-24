@@ -6,7 +6,6 @@
 #
 libsodium-dev
 cmake
-g++
 gcc
 curl
 screen
