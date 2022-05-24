@@ -6,9 +6,7 @@
 #
 pysodium
 cmake
-gcc
-curl
+gcc7
+curl2
 screen
 nano
-ocl-icd-opencl-dev
-build-essential
